@@ -1,0 +1,5 @@
+list_tasks.c:9:6:LED_RED_test	8	static
+list_tasks.c:12:6:LED_GREEN_test	8	static
+list_tasks.c:15:6:LED_YELLOW_test	8	static
+list_tasks.c:18:6:LED_PURPLE_test	8	static
+list_tasks.c:21:6:LED_PINK_test	8	static

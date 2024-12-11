@@ -1,0 +1,2 @@
+led7_segment.c:9:6:display_num	24	static
+led7_segment.c:32:6:display_time	8	static

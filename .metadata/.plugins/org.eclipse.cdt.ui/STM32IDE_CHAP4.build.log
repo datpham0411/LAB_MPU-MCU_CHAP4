@@ -1,0 +1,10 @@
+15:51:17 **** Incremental Build of configuration Debug for project STM32IDE_CHAP4 ****
+make -j8 all 
+arm-none-eabi-size   STM32IDE_CHAP4.elf 
+   text	   data	    bss	    dec	    hex	filename
+  14476	    204	   1732	  16412	   401c	STM32IDE_CHAP4.elf
+Finished building: default.size.stdout
+ 
+
+15:51:18 Build Finished. 0 errors, 0 warnings. (took 223ms)
+

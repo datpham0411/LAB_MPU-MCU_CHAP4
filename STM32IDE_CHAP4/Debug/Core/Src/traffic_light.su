@@ -1,0 +1,3 @@
+traffic_light.c:9:6:setColor	24	static
+traffic_light.c:15:6:setColorToggle	24	static
+traffic_light.c:21:6:select_num	32	static
